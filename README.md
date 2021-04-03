@@ -1,5 +1,5 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yishonfighting&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yishonfighting&layout=compact&theme=vue-dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yishonfighting)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yishonfighting&layout=compact)
 
 
 
