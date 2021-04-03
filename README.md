@@ -3,10 +3,9 @@
 - 🌱 I’m currently learning Cloud Native
 - 📫 How to reach me: yishonddp@gmail.com
 
+### Overview
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yishonfighting&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yishonfighting&layout=compact&theme=vue-dark)
-
-
 
 
 ### Platform & Tools
