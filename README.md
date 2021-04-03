@@ -2,7 +2,7 @@
 
 - 🍻 Graduated from [GDUT](https://www.gdut.edu.cn/), _E-commerce_
 - ⚡ Go / PHP.
-- 📫 How to reach me: yishonddp@gmail.com
+- 📫 yishonddp@gmail.com
 - ✍️ [Blogger](http://yishon.top)
 - 🏃 Travel / Basketball / Reading / Cycling 
 
