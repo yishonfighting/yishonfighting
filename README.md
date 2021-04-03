@@ -1,7 +1,10 @@
 ### This is YISHON 😄
 
-- 🌱 I’m currently learning Cloud Native
-- 📫 How to reach me: yishonddp@gmail.com
+- 🍻 Graduated from [GDUT](https://www.gdut.edu.cn/), _E-commerce_
+- ⚡ Go / PHP.
+- ✍️ [Blogger](http://yishon.top)
+- 🏃 Travel / Basketball / Reading / Cycling 
+
 
 ### Overview
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yishonfighting&theme=vue-dark)
