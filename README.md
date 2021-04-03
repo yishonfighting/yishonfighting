@@ -1,5 +1,15 @@
-### Hi there 👋
-🌱 I’m currently learning ...
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yishonfighting&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yishonfighting&layout=compact&theme=vue-dark)
+
+
+
+
+### Platform & Tools
+![](https://visitor-badge.glitch.me/badge?page_id=yishonfighting.readme)
+[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
+[![](https://img.shields.io/badge/-Go-007396?style=flat-square&logo=go&logoColor=ffffff)](https://reactjs.org/)
+
 
 
 <!--
@@ -16,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
