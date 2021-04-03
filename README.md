@@ -1,5 +1,10 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yishonfighting)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yishonfighting&layout=compact)
+### This is YISHON 😄
+
+- 🌱 I’m currently learning Cloud Native
+- 📫 How to reach me: yishonddp@gmail.com
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yishonfighting&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yishonfighting&layout=compact&theme=vue-dark)
 
 
 
@@ -18,7 +23,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
