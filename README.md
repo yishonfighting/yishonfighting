@@ -1,7 +1,7 @@
 ### This is YISHON 😄
 
 - 🍻 Graduated from [GDUT](https://www.gdut.edu.cn/), _E-commerce_
-- ⚡ Go / PHP.
+- ⚡ Go / Java / PHP.
 - 📫 yishonddp@gmail.com
 - ✍️ [Blogger](http://yishon.top)
 - 🏃 Travel / Basketball / Reading / Cycling 
